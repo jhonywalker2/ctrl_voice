@@ -29,9 +29,9 @@ client1.on_message = on_message
 
 
 st.title("INTERFACES MULTIMODALES")
-st.subheader("Contro_de_voz.png")
+st.subheader("Habla con la maquina")
 
-image = Image.open('voice_ctrl.jpg')
+image = Image.open('Contro_de_voz.png')
 
 st.image(image, width=200)
 
